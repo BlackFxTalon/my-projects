@@ -1,7 +1,5 @@
 # my-projects
 
-Maven
-<br>
-project Maven
+Maven(project Maven)
 <br>
 https://github.com/BlackFxTalon/Maven/tree/master
