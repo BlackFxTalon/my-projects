@@ -33,3 +33,13 @@ https://github.com/BlackFxTalon/test-example-promise.all
 test-example-promise(an example test (promises) to test my skills in asynchronous js)
 <br>
 https://github.com/BlackFxTalon/test-example-promise
+<br>
+<br>
+spinner(small component spinner to test my skills in asynchronous js)
+<br>
+https://github.com/BlackFxTalon/spinner
+<br>
+<br>
+stopwatch(small component stopwatch to test my skills in asynchronous js)
+<br>
+https://github.com/BlackFxTalon/stopwatch
