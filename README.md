@@ -28,3 +28,8 @@ https://github.com/BlackFxTalon/test-task-Alfa-R-B-Group
 test-example-promise.all(an example test (promise.all method) to test my skills in asynchronous js)
 <br>
 https://github.com/BlackFxTalon/test-example-promise.all
+<br>
+<br>
+test-example-promise(an example test (promises) to test my skills in asynchronous js)
+<br>
+https://github.com/BlackFxTalon/test-example-promise
