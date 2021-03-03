@@ -13,3 +13,13 @@ https://github.com/BlackFxTalon/test-nuxt-strapi
 NinJi-gulp-template-2021(my new template for frontend development in 2021 (gulp 4, webpack, sass, eslint, gulp template imports, BEM components creation))
 <br>
 https://github.com/BlackFxTalon/NinJi-gulp-template-2021/tree/master
+<br>
+<br>
+test-task-Money4Leads(test task for my previous job)
+<br>
+https://github.com/BlackFxTalon/test-task-Money4Leads
+<br>
+<br>
+test-task-Alfa-R-B-Group(test task for job)
+<br>
+https://github.com/BlackFxTalon/test-task-Alfa-R-B-Group
