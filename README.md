@@ -23,3 +23,8 @@ https://github.com/BlackFxTalon/test-task-Money4Leads
 test-task-Alfa-R-B-Group(test task for job)
 <br>
 https://github.com/BlackFxTalon/test-task-Alfa-R-B-Group
+<br>
+<br>
+test-example-promise.all(an example test (promise.all method) to test my skills in asynchronous js)
+<br>
+https://github.com/BlackFxTalon/test-example-promise.all
