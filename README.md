@@ -5,6 +5,11 @@ Maven(project Maven)
 https://github.com/BlackFxTalon/Maven/tree/master
 <br>
 <br>
+html-academy-project(html academy project (static site) for web development competition)
+<br>
+https://github.com/BlackFxTalon/html-academy-project
+<br>
+<br>
 test-nuxt-strapi(test task to test skills in new stack (nuxt.js + strapi.io + mongoDB))
 <br>
 https://github.com/BlackFxTalon/test-nuxt-strapi
