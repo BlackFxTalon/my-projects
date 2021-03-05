@@ -48,3 +48,8 @@ https://github.com/BlackFxTalon/spinner
 stopwatch(small component stopwatch to test my skills in asynchronous js)
 <br>
 https://github.com/BlackFxTalon/stopwatch
+<br>
+<br>
+js-marathon(Pokemon game battler for js marathon competition)
+<br>
+https://github.com/BlackFxTalon/js-marathon/tree/master
