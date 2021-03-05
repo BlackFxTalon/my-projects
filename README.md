@@ -1,10 +1,5 @@
 # my-projects
 
-html-academy-project(html academy project (static site) for web development competition)
-<br>
-https://github.com/BlackFxTalon/html-academy-project
-<br>
-<br>
 Maven(project Maven)
 <br>
 https://github.com/BlackFxTalon/Maven/tree/master
