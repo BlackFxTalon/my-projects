@@ -53,3 +53,8 @@ https://github.com/BlackFxTalon/stopwatch
 js-marathon(Pokemon game battler for js marathon competition)
 <br>
 https://github.com/BlackFxTalon/js-marathon/tree/master
+<br>
+<br>
+NinJi-gulp-template-2021(my new template for frontend development in 2021 (gulp 4, webpack, sass, eslint, gulp template imports, BEM components))
+<br>
+https://github.com/BlackFxTalon/NinJi-gulp-template-2021
